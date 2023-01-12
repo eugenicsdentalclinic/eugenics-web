@@ -1,3 +1,3 @@
 # eugenics-web
 
-Public Website - http://eugenicshealthcare.com/
+Public Website - eugenicshealthcare.com
